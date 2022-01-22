@@ -1,3 +1,4 @@
+[Fix_statesmodels.pdf](https://github.com/Ahmd1977/Analyze-A-B-Test-Results/files/7918518/Fix_statesmodels.pdf)
 # Analyze-A-B-Test-Results
 
 This project will assure you have mastered the subjects covered in the statistics lessons. We have organized the current notebook into the following sections:
